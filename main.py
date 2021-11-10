@@ -1,5 +1,6 @@
 from utils import get_triangle_area 
 
+
 def main():
     a = 3;
     h = 6;
