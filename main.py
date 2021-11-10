@@ -5,7 +5,7 @@ def main():
     h = 6;
     res = get_triangle_area(a, h) 
     print(res) 
-
+    print('this is new added message')
 
 if __name__ == "__main__":
     main()
